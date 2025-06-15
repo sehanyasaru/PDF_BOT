@@ -96,9 +96,3 @@ This project implements a question-answering system for PDF documents using larg
 4. Push to the branch (`git push origin feature-branch`). 🚀
 5. Create a pull request. 🤝
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. 📜
-
-## Acknowledgments
-- Built with [LangChain](https://github.com/langchain-ai/langchain) and [Google Generative AI](https://cloud.google.com/ai/generative-ai). 🙌
-- Inspired by the need for efficient PDF-based question answering in educational contexts. 🎓
